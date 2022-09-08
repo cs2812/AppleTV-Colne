@@ -1,70 +1,27 @@
-# Getting Started with Create React App
+# Clone of AppleTV+
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+AppleTV+ is a website for Movie and Web-series fans where they can watch Movie and Web-series as well as details of upcoming Movie and Web-series. I build this construct week project in 5 days.
 
-## Available Scripts
+# Deployment link
 
-In the project directory, you can run:
+https://apple-tv-clone-by-chetan.netlify.app/
 
-### `npm start`
+# Contributor
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+* Chetan Sharma (https://github.com/cs2812)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+# Tech Stack
 
-### `npm test`
+* React JS
+* ChakraUI
+* React-slick
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# Screensorts
+![2](https://user-images.githubusercontent.com/101570543/189091654-5025ce8a-3215-4732-8ce1-cee355231e12.jpg)
+![3](https://user-images.githubusercontent.com/101570543/189091724-bcc1c77a-8550-449d-bcbf-ba428d3554c5.jpg)
+![4](https://user-images.githubusercontent.com/101570543/189091749-abfa58ec-f038-438f-9028-7983d2066db7.jpg)
+![5](https://user-images.githubusercontent.com/101570543/189091790-9d199b72-2272-44af-b365-bfe839547271.jpg)
+![6](https://user-images.githubusercontent.com/101570543/189091824-ffdce9b6-6b9f-45dd-83ba-dd39c092552e.jpg)
+![7](https://user-images.githubusercontent.com/101570543/189091871-8bdd0949-5d94-4a5e-81ce-04887ed01126.jpg)
+![8](https://user-images.githubusercontent.com/101570543/189091906-998406d3-8f2a-4ce8-bc2e-a4c84a31ef33.jpg)
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
