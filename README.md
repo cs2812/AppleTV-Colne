@@ -1,6 +1,6 @@
 # Clone of AppleTV+
 
-AppleTV+ is a website for Movie and Web-series fans where they can watch Movie and Web-series as well as details of upcoming Movie and Web-series. I build this construct week project in 5 days.
+AppleTV+ is a website for Movies and Web-series fans can watch Movie and Web-series as well as they can see details of upcoming Movie and Web-series. I build this construct week project in 5 days.
 
 # Deployment link
 
